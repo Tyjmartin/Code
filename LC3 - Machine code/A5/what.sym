@@ -1,0 +1,11 @@
+//Symbol Name		Page Address
+//----------------	------------
+//	again                   3014
+//	check                   301B
+//	iszero                  3017
+//	loop                    3000
+//	nl                      3020
+//	pos                     301F
+//	prompt                  3022
+//	subr                    3012
+//	zp                      3008

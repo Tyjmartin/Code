@@ -1,0 +1,5 @@
+"C:\\Users\\Tyler\\Documents\\JCreator Pro\\MyProjects\\2P03Assignment2\\Bst.java"
+"C:\\Users\\Tyler\\Documents\\JCreator Pro\\MyProjects\\2P03Assignment2\\CharNode.java"
+"C:\\Users\\Tyler\\Documents\\JCreator Pro\\MyProjects\\2P03Assignment2\\Node.java"
+"C:\\Users\\Tyler\\Documents\\JCreator Pro\\MyProjects\\2P03Assignment2\\Stringerator.java"
+"C:\\Users\\Tyler\\Documents\\JCreator Pro\\MyProjects\\2P03Assignment2\\TestHarness.java"

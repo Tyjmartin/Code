@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>2P03A3</label>
+		<id>0</id>
+		<version>0</version>
+	</settings>
+	<users>
+		<user>
+			<path>2P03A32.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>2P03A3.jcp</path>
+		</project>
+	</projects>
+</workspace>
